@@ -21,7 +21,6 @@ def parse_cmd(argv: str) -> list:
     """
     Parse or split a string (argv) based on some pattern
     example, spaces, brackects
-
     :param argv: string
     :return:  a list of words representing the parsed string
     """
